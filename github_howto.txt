@@ -1,0 +1,6 @@
+some instructions on how to use github (this will be more useful when you will have collaborators)
+
+
+link to a discussion on the Biopython ml on the same topic:
+- http://www.biopython.org/pipermail/biopython-dev/2009-March/005544.html
+
